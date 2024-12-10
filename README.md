@@ -28,7 +28,7 @@ Software developer with  3+ years MERN expertise
 ---
 
 ### 📂 My Recent Projects:
-- A beautiful landing page in Next.js  
+- A beautiful landing page in Next.js
   **Visit :** [Live ⚡](https://nextgrab-landing.vercel.app)
 
 - [Administrative Dashboard (Project Repo)](https://github.com/SYED175/Dashboard-React)  
